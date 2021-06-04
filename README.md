@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @grega1337
 - 👀 I’m interested in creating custom colutions
-- 🌱 I’m currently learning nodeJs mongoDB vueJs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nodeJs express mongoDB vueJs
 - 📫 you can reach me at grega.rednak78@gmail.com
 
 <!---
